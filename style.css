@@ -1,0 +1,50 @@
+#logo {
+  width: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+#topMenu {
+  border: none;
+  box-shadow: none;
+}
+
+#banner {
+  padding-bottom: 60px;
+}
+
+#secOne {
+  padding-left: 120px;
+  padding-right: 120px;
+  margin-bottom: 80px;
+}
+
+.ui.grey.basic.fluid.button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#secTwo {
+  padding-left: 120px;
+  padding-right: 120px;
+  margin-bottom: 80px;
+}
+
+#shows {
+  font-size: 12px;
+}
+
+#secThree {
+  padding-left: 120px;
+  padding-right: 120px;
+  margin-bottom: 80px;
+}
+
+.title.row {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#trademark {
+  color: gray;
+}
